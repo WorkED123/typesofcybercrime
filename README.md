@@ -62,13 +62,13 @@
 <h2>NICE Framework KSAs</h2>
 
 <ul>
-<li>K0119	- Knowledge of hacking methodologies.</li><br>
-<li>K0206	- Knowledge of ethical hacking principles and techniques.	</li><br>
-<li>K0177	- Knowledge of cyber attack stages (e.g., reconnaissance, scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks).</li><br>
-<li>K0005	- Knowledge of cyber threats and vulnerabilities. </li><br>
-<li>K0009	- Knowledge of application vulnerabilities.</li><br>
-<li>K0144	- Knowledge of social dynamics of computer attackers in a global context.</li><br>
-<li>S0052	- Skill in the use of social engineering techniques. (e.g., phishing, baiting, tailgating, etc.).</li>
+<li>K0119: Knowledge of hacking methodologies.</li><br>
+<li>K0206: Knowledge of ethical hacking principles and techniques.	</li><br>
+<li>K0177: Knowledge of cyber attack stages (e.g., reconnaissance, scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks).</li><br>
+<li>K0005: Knowledge of cyber threats and vulnerabilities. </li><br>
+<li>K0009: Knowledge of application vulnerabilities.</li><br>
+<li>K0144: Knowledge of social dynamics of computer attackers in a global context.</li><br>
+<li>S0052: Skill in the use of social engineering techniques. (e.g., phishing, baiting, tailgating, etc.).</li>
 
 </ul>
 
@@ -98,6 +98,10 @@ The term "cybercrime" is an umbrella term, covering a multitude of sins. These c
 <li>
   
   **<ins>Ransomware:</ins>** A malicious software that holds data hostage, demanding payment for its release. The WannaCry attack of 2017 is a notorious example, affecting computers across 150 countries.</li>
+
+  <li>
+
+  **<ins>Distributed Denial of Service (DDoS) Attack:</ins>** Similar to a DoS attack but conducted using multiple compromised devices (a botnet) to flood the target with traffic, increasing the attack’s scale and impact. </li>
 
 </ul>
 
@@ -166,8 +170,21 @@ Beyond the immediate loss or inconvenience, cybercrimes can have lasting impacts
 
 
 <h2>Conclusion</h2>
-Understanding the myriad forms of cybercrime is the first step in protecting ourselves. By staying informed and vigilant, we can navigate the digital realm with increased confidence and security. Remember, knowledge is power, especially when it comes to cybersecurity.
+Understanding the myriad forms of cybercrime is a critical first step in safeguarding our digital lives. As cyber threats continue to evolve and become more sophisticated, being well-informed about the different types of cybercrime—such as identity theft, ransomware, phishing, and cryptojacking—enables us to recognize potential dangers and implement appropriate defenses. By staying updated on the latest security practices and remaining vigilant, we can navigate the complex digital landscape with increased confidence and resilience. It’s important to remember that knowledge is not just power but also a key element in proactive cybersecurity. Educating ourselves about these threats empowers us to make informed decisions, protect our personal and sensitive information, and respond effectively to potential security breaches. In a world where cyber threats are ever-present, continuous learning and awareness are essential for maintaining robust security and ensuring a safer online experience.
 
+
+<h2>Definitions</h2>
+<ul>
+<li><b>Identity Theft:</b> The unauthorized use of someone’s personal information, such as Social Security numbers or credit card details, to commit fraud or other crimes.</li><br>
+<li><b>Botnet:</b> A network of infected computers controlled remotely by an attacker, often used to execute large-scale attacks or spread malware.</li><br>
+<li><b>Social Engineering:</b> Manipulating individuals into divulging confidential information or performing actions that compromise security through psychological tactics.</li><br>
+<li><b>Phishing:</b> A deceptive attempt to obtain sensitive information by pretending to be a trustworthy entity through emails or other communication methods.</li><br>
+<li><b>Cyberstalking:</b> The use of digital means to harass, intimidate, or threaten an individual, often involving repeated and targeted online behavior.</li><br>
+<li><b>Spoofing:</b> The act of falsifying the origin of communication or identity to deceive or mislead a target, such as altering email addresses or IP addresses.</li><br>
+<li><b>Cryptojacking:</b> Unauthorized use of a computer or device to mine cryptocurrency, often without the user's knowledge or consent.</li><br>
+<li><b>Ransomware:</b> Malicious software that encrypts a victim's data and demands payment for the decryption key to restore access.</li><br>
+<li><b>Keylogging:</b> The practice of recording keystrokes on a computer or mobile device to capture sensitive information such as passwords and personal data.</li>
+</ul>
 
 
 <h2> Presentation</h2>
@@ -176,6 +193,7 @@ Understanding the myriad forms of cybercrime is the first step in protecting our
 
 
 <h2> Hands-On Labs</h2>
+<h2>Games</h2>
 
 <h2> Additional Resources</h2>
 
